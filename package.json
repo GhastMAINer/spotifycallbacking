@@ -1,0 +1,6 @@
+{
+  "name": "spotify-callback-api",
+  "version": "1.0.0",
+  "main": "api/callback.js",
+  "dependencies": {}
+}
